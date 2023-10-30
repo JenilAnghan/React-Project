@@ -26,7 +26,7 @@ export default function UseStae() {
         <h1>Hello World</h1>
       </div>
       <Button color="danger" onClick={() => chnageIndex()}>
-        Chnage color
+        Change color
       </Button>
     </div>
   );
