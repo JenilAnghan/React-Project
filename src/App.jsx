@@ -7,10 +7,10 @@ function App() {
 
   return <>
 
-  {/* <Cardss/>
-  <UseStaeCom/> */}
-  <Header/>
-  <Footer/>
+  <Cardss/>
+  {/* <UseStaeCom/> */}
+  {/* <Header/> */}
+  {/* <Footer/> */}
   </>
 }
 
